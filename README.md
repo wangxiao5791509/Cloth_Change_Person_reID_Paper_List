@@ -23,8 +23,6 @@ Wan, Fangbin, et al. "When Person Re-identification Meets Changing Clothes." arX
 
 Yu, Shijie, et al. "COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification." arXiv preprint arXiv:2005.07862 (2020). [[Paper](https://arxiv.org/pdf/2005.07862.pdf)]  [[Dataset]()] 
 
-Li, Yu-Jhe, et al. "Learning Shape Representations for Clothing Variations in Person Re-Identification." arXiv preprint arXiv:2003.07340 (2020). [[Paper](https://arxiv.org/pdf/2003.07340)] [[Dataset]()] 
-
 Li, Yu-Jhe, et al. "Learning Shape Representations for Clothing Variations in Person Re-Identification." arXiv preprint arXiv:2003.07340 (2020). [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] [[Paper](https://arxiv.org/pdf/2003.07340)] [[Code]()] [[Dataset]()] 
 
 

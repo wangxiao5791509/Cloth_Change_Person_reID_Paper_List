@@ -1,6 +1,8 @@
 # Cloth_Change_Person_reID_Paper_List
 Paper collection for cloth variation based person re-identification 
 
+![rgbt_car10](https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List/blob/master/reid_clothchange.png) 
+
 
 ## Survey papers on person re-identification 
 Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlook." arXiv preprint arXiv:2001.04193 (2020). [[Paper](https://arxiv.org/pdf/2001.04193)]

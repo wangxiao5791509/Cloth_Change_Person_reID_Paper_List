@@ -44,7 +44,7 @@ Huang, Yan, et al. "Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Lo
 
 
 
-### Year before 2018 
+### Before Year 2018 
 
 
 

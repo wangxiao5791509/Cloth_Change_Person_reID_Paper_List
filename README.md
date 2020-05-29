@@ -44,10 +44,21 @@ Huang, Yan, et al. "Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Lo
 
 
 
-### Before Year 2018 
+### Year 2018 and Before 
+
+Zhang, Peng, et al. "Long-term person re-identification using true motion from videos." 2018 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2018. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354164)] 
 
 
 
+
+## RGB-D for Cloth-change reID  
+
+Barbosa, Igor Barros, et al. "Re-identification with rgb-d sensors." European Conference on Computer Vision. Springer, Berlin, Heidelberg, 2012. [[Paper](https://www.researchgate.net/profile/Igor_Barros_Barbosa/publication/235153359_Re-identification_with_RGB-D_Sensors/links/5509b0210cf20ed529e192ed.pdf)] 
+
+Munaro, Matteo, et al. "3D reconstruction of freely moving persons for re-identification with a depth sensor." 2014 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2014. [[Paper](http://robotics.dei.unipd.it/images/Papers/Conferences/MunaroICRA14b.pdf)] 
+
+Haque, Albert, Alexandre Alahi, and Li Fei-Fei. "Recurrent attention models for depth-based person identification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Haque_Recurrent_Attention_Models_CVPR_2016_paper.pdf)] 
+ 
 
 
 

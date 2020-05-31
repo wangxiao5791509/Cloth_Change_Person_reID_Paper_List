@@ -8,11 +8,12 @@ Paper collection for cloth variation based person re-identification
 Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlook." arXiv preprint arXiv:2001.04193 (2020). [[Paper](https://arxiv.org/pdf/2001.04193)]
 
 ## Benchmark Datasets
-1. 
-2. 
-3. 
-4. 
-5. 
+1. COCAS dataset, cvpr-2020, [[Paper](https://arxiv.org/pdf/2005.07862.pdf)]
+2. LTCC dataset, arXiv-2020, [[Paper](https://arxiv.org/pdf/2005.12633)] 
+3. Celebrities-ReID, IJCNN-2019, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851957)] 
+4. Celeb-reID, T-CSVT 2019, [[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf)]  
+5. VC-Clothes && Real28, arXiv-2020, [[Paper](https://arxiv.org/pdf/2003.04070.pdf)] 
+6. PRCC dataset, T-PAMI, 2019, [[Paper](https://arxiv.org/abs/2002.02295)] 
 
 ## Paper List 
 
@@ -23,7 +24,9 @@ Wan, Fangbin, et al. "When Person Re-identification Meets Changing Clothes." arX
 
 Yu, Shijie, et al. "COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification." arXiv preprint arXiv:2005.07862 (2020). [[Paper](https://arxiv.org/pdf/2005.07862.pdf)]  [[Dataset]()] 
 
-Li, Yu-Jhe, et al. "Learning Shape Representations for Clothing Variations in Person Re-Identification." arXiv preprint arXiv:2003.07340 (2020). [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] [[Paper](https://arxiv.org/pdf/2003.07340)] [[Code]()] [[Dataset]()] 
+Li, Yu-Jhe, et al. "Learning Shape Representations for Clothing Variations in Person Re-Identification." arXiv preprint arXiv:2003.07340 (2020). [[Paper](https://arxiv.org/pdf/2003.07340)] 
+
+Qian, Xuelin, et al. "Long-Term Cloth-Changing Person Re-identification." arXiv preprint arXiv:2005.12633 (2020). [[Paper](https://arxiv.org/pdf/2005.12633)]  [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] 
 
 
  

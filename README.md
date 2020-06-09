@@ -8,12 +8,12 @@ Paper collection for cloth variation based person re-identification
 Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlook." arXiv preprint arXiv:2001.04193 (2020). [[Paper](https://arxiv.org/pdf/2001.04193)]
 
 ## Benchmark Datasets
-1. COCAS dataset, cvpr-2020, [[Paper](https://arxiv.org/pdf/2005.07862.pdf)]
-2. LTCC dataset, arXiv-2020, [[Paper](https://arxiv.org/pdf/2005.12633)] 
-3. Celebrities-ReID, IJCNN-2019, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851957)] 
-4. Celeb-reID, T-CSVT 2019, [[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf)]  
-5. VC-Clothes && Real28, arXiv-2020, [[Paper](https://arxiv.org/pdf/2003.04070.pdf)] 
-6. PRCC dataset, T-PAMI, 2019, [[Paper](https://arxiv.org/abs/2002.02295)] 
+1. COCAS dataset, cvpr-2020, [[Paper](https://arxiv.org/pdf/2005.07862.pdf)] 
+2. LTCC dataset, arXiv-2020, [[Paper](https://arxiv.org/pdf/2005.12633)] [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] 
+3. Celeb-reID-light, IJCNN-2019, [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851957)] [[Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckRrtd0HGhUZPqNcw?e=ziRTjb)]
+4. Celeb-reID, T-CSVT 2019, [[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf)] [[Code](https://github.com/Huang-3/Celeb-reID)] [[Dataset](https://1drv.ms/u/s!Ats-N2hYCkEIgckQF5M5TCsBF0aQZQ?e=IKG16O)]
+5. VC-Clothes && Real28, arXiv-2020, [[Paper](https://arxiv.org/pdf/2003.04070.pdf)] [[Project](https://wanfb.github.io/dataset.html)]
+6. PRCC dataset, T-PAMI, 2019, [[Paper](https://arxiv.org/abs/2002.02295)] [[Dataset](https://drive.google.com/file/d/1yTYawRm4ap3M-j0PjLQJ--xmZHseFDLz/view?usp=sharing)]
 
 ## Paper List 
 

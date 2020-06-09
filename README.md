@@ -41,7 +41,7 @@ Huang, Yan, et al. "Celebrities-ReID: A Benchmark for Clothes Variation in Long-
 
 Yang, Qize, Ancong Wu, and Wei-Shi Zheng. "Person Re-identification by Contour Sketch under Moderate Clothing Change." IEEE Transactions on Pattern Analysis and Machine Intelligence (2019). [[Paper](https://arxiv.org/abs/2002.02295)] [[Dataset](https://drive.google.com/file/d/1yTYawRm4ap3M-j0PjLQJ--xmZHseFDLz/view?usp=sharing)] 
 
-Huang, Yan, et al. "Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Long-Term Person Re-Identification." IEEE Transactions on Circuits and Systems for Video Technology (2019). [[Paper](https://opus.lib.uts.edu.au/bitstream/10453/137156/4/Binder1.pdf)]  [[Project](https://www.isee-ai.cn/~yangqize/clothing.html)] 
+Huang, Yan, et al. "Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Long-Term Person Re-Identification." IEEE Transactions on Circuits and Systems for Video Technology (2019). [[Paper](https://ieeexplore.ieee.org/abstract/document/8873614/)]  [[Project]()] 
 
 
 

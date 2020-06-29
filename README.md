@@ -43,6 +43,9 @@ Yang, Qize, Ancong Wu, and Wei-Shi Zheng. "Person Re-identification by Contour S
 
 Huang, Yan, et al. "Beyond Scalar Neuron: Adopting Vector-Neuron Capsules for Long-Term Person Re-Identification." IEEE Transactions on Circuits and Systems for Video Technology (2019). [[Paper](https://ieeexplore.ieee.org/abstract/document/8873614/)]  [[Code](https://github.com/Huang-3/Celeb-reID)] 
 
+Fine-Grained Person Re-identification, Jiahang Yin, Ancong Wu, Wei-Shi Zheng, [[Paper](https://isee-ai.cn/~yinjiahang/FGPR_files/fgreid.pdf)] [[Project-page](https://isee-ai.cn/~yinjiahang/FGPR.html)]
+
+
 
 
 

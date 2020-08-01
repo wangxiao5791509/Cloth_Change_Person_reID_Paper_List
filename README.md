@@ -15,7 +15,7 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 5. VC-Clothes && Real28, arXiv-2020, [[Paper](https://arxiv.org/pdf/2003.04070.pdf)] [[Project](https://wanfb.github.io/dataset.html)]
 6. PRCC dataset, T-PAMI, 2019, [[Paper](https://arxiv.org/abs/2002.02295)] [[Dataset](https://drive.google.com/file/d/1yTYawRm4ap3M-j0PjLQJ--xmZHseFDLz/view?usp=sharing)]
 
-![rgbt_car10](https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List/blob/master/benchmarkdatasets.png) 
+![rgbt_car10](https://github.com/wangxiao5791509/Cloth_Change_Person_reID_Paper_List/blob/master/ccReID_datasets.png) 
 
 
 

@@ -24,6 +24,8 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ### Year 2020 
 
+Wang, K., Ma, Z., Chen, S., Yang, J., Zhou, K., & Li, T. A benchmark for clothes variation in person re‐identification. International Journal of Intelligent Systems. [[Paper](https://sci-hub.st/https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22276)] [[Dataset](https://github.com/nkicsl/NKUP-dataset)]
+
 Wan, Fangbin, et al. "When Person Re-identification Meets Changing Clothes." CVPR Workshop 2020. [[Paper](https://arxiv.org/pdf/2003.04070.pdf)] [[Project](https://wanfb.github.io/dataset.html)] [[Dataset](https://drive.google.com/drive/folders/1gd3PVsbDVlrSzK60BWUf1Y2C6nGMDcRV)]  
 
 Yu, Shijie, et al. "COCAS: A Large-Scale Clothes Changing Person Dataset for Re-identification." arXiv preprint arXiv:2005.07862 (2020). [[Paper](https://arxiv.org/pdf/2005.07862.pdf)]  [[Dataset]()] 

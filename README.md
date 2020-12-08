@@ -58,6 +58,7 @@ Fine-Grained Person Re-identification, Jiahang Yin, Ancong Wu, Wei-Shi Zheng, [[
 
 ### Year 2018 and Before 
 
+Xue, Jia, et al. "Clothing change aware person identification." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w41/Xue_Clothing_Change_Aware_CVPR_2018_paper.pdf)]  
 Zhang, Peng, et al. "Long-term person re-identification using true motion from videos." 2018 IEEE Winter Conference on Applications of Computer Vision (WACV). IEEE, 2018. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354164)] 
 
 

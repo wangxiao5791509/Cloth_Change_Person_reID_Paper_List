@@ -32,7 +32,7 @@ Yu, Shijie, et al. "COCAS: A Large-Scale Clothes Changing Person Dataset for Re-
 
 Li, Yu-Jhe, et al. "Learning Shape Representations for Clothing Variations in Person Re-Identification." arXiv preprint arXiv:2003.07340 (2020). [[Paper](https://arxiv.org/pdf/2003.07340)] 
 
-Qian, Xuelin, et al. "Long-Term Cloth-Changing Person Re-identification." arXiv preprint arXiv:2005.12633 (2020). [[Paper](https://arxiv.org/pdf/2005.12633)]  [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] 
+Qian, Xuelin, et al. "Long-Term Cloth-Changing Person Re-identification." ACCV (2020). [[Paper](https://arxiv.org/pdf/2005.12633)]  [[Project](https://naiq.github.io/LTCC_Perosn_ReID.html)] 
 
 
  

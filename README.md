@@ -21,6 +21,11 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ## Paper List 
 
+### Year 2021 
+Large-Scale Spatio-Temporal Person Re-identification: Algorithm and Benchmark, Xiujun Shu*, Xiao Wang*, Shiliang Zhang, Xianghao Zhang, Yuanqi Chen, Ge Li, and Qi Tian (* denotes Equal Contribution), In Peer Review,[[Paper](https://arxiv.org/pdf/2105.15076.pdf)] 
+
+Long-term Person Re-identification: A Benchmark, Peng Xu Xiatian Zhu, [[Paper](https://arxiv.org/pdf/2105.14685.pdf)]
+
 
 ### Year 2020 
 

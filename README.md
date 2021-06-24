@@ -22,6 +22,8 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 ## Paper List 
 
 ### Year 2021 
+Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification, Peixian Hong, Tao Wu, Ancong Wu, Xintong Han, Wei-Shi Zheng; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 10513-10522 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Fine-Grained_Shape-Appearance_Mutual_Learning_for_Cloth-Changing_Person_Re-Identification_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Hong_Fine-Grained_Shape-Appearance_Mutual_CVPR_2021_supplemental.pdf)]
+
 Large-Scale Spatio-Temporal Person Re-identification: Algorithm and Benchmark, Xiujun Shu*, Xiao Wang*, Shiliang Zhang, Xianghao Zhang, Yuanqi Chen, Ge Li, and Qi Tian (* denotes Equal Contribution), In Peer Review,[[Paper](https://arxiv.org/pdf/2105.15076.pdf)] 
 
 Long-term Person Re-identification: A Benchmark, Peng Xu Xiatian Zhu, [[Paper](https://arxiv.org/pdf/2105.14685.pdf)]

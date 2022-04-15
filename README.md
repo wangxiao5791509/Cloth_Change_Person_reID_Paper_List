@@ -22,6 +22,14 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ## Paper List 
 
+### Year 2022 
+* Clothes-Changing Person Re-identification with RGB Modality Only, Xinqian Gu, Hong Chang, Bingpeng Ma, Shutao Bai, Shiguang Shan, Xilin Chen, Accepted by CVPR 2022 
+[[Paper](https://arxiv.org/pdf/2204.06890.pdf)]
+[[Code](https://github.com/guxinqian/Simple-CCReID)]
+
+
+
+
 ### Year 2021 
 Semantic-guided Pixel Sampling for Cloth-Changing Person Re-identification, Xiujun Shu; Ge Li; Xiao Wang; Weijian Ruan; Qi Tian, IEEE Signal Processing Letters (2021), [[Paper](https://ieeexplore.ieee.org/document/9463711)] [[Code](https://github.com/shuxjweb/pixel_sampling)]
 

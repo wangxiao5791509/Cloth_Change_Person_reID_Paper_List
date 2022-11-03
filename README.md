@@ -27,6 +27,11 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 [[Paper](https://arxiv.org/pdf/2204.06890.pdf)]
 [[Code](https://github.com/guxinqian/Simple-CCReID)]
 
+* S. Li et al., "COCAS+: Large-Scale Clothes-Changing Person Re-identification with Clothes Templates," in IEEE Transactions on Circuits and Systems for Video Technology, 2022, doi: 10.1109/TCSVT.2022.3216769. 
+[[Paper](https://ieeexplore.ieee.org/document/9927447)] 
+[[Code](https://github.com/Chenhaobin/COCAS-plus)]
+
+
 
 
 

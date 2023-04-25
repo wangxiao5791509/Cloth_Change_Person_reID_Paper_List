@@ -22,6 +22,13 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ## Paper List 
 
+
+### Year 2023 
+
+* **Clothing-Change Feature Augmentation for Person Re-Identification**, Ke Han Shaogang Gong Yan Huang Liang Wang Tieniu Tan 
+[[Paper](http://www.eecs.qmul.ac.uk/~sgg/papers/HanEtAl_CVPR2023.pdf)]
+
+
 ### Year 2022 
 * Clothes-Changing Person Re-identification with RGB Modality Only, Xinqian Gu, Hong Chang, Bingpeng Ma, Shutao Bai, Shiguang Shan, Xilin Chen, Accepted by CVPR 2022 
 [[Paper](https://arxiv.org/pdf/2204.06890.pdf)]

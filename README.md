@@ -25,6 +25,10 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ### Year 2023 
 
+* **Retrieve Anyone: A General-purpose Person Re-identification Task with Instructions**, Weizhen He1 Shixiang Tang2 Yiheng Deng1 Qihao Chen4 Qingsong Xie5 Yizhou Wang6 Lei Bai6 Feng Zhu3 Rui Zhao3,7 Wanli Ouyang2,6 Donglian Qi1 Yunfeng Yan
+[[Paper](https://arxiv.org/pdf/2306.07520.pdf)]
+[[Code](https://github.com/hwz-zju/Instruct-ReID)]
+
 * **Clothing-Change Feature Augmentation for Person Re-Identification**, Ke Han Shaogang Gong Yan Huang Liang Wang Tieniu Tan 
 [[Paper](http://www.eecs.qmul.ac.uk/~sgg/papers/HanEtAl_CVPR2023.pdf)]
 

@@ -29,6 +29,9 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ### Year 2024
 
+* **CCPA: Long-term Person Re-Identification via Contrastive Clothing and Pose Augmentation**, Vuong D. Nguyen, Shishir K. Shah
+  [[Paper](https://arxiv.org/abs/2402.14454)] 
+
 * **Contrastive Viewpoint-Aware Shape Learning for Long-Term Person Re-Identification**, Vuong D. Nguyen, Khadija Khaldi, Dung Nguyen, Pranav Mantini and Shishir Shah. In WACV 2024.
 [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Contrastive_Viewpoint-Aware_Shape_Learning_for_Long-Term_Person_Re-Identification_WACV_2024_paper.html)]
 

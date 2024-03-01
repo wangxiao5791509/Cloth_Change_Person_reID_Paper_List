@@ -29,6 +29,10 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ### Year 2024
 
+* **Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions**, Weizhen He, Yiheng Deng, Shixiang Tang, Qihao Chen, Qingsong Xie, Yizhou Wang, Lei Bai, Feng Zhu, Rui Zhao, Wanli Ouyang, Donglian Qi, Yunfeng Yan
+  [[Paper](https://arxiv.org/abs/2306.07520)]
+  [[Code](https://github.com/hwz-zju/Instruct-ReID)] 
+
 * **CCPA: Long-term Person Re-Identification via Contrastive Clothing and Pose Augmentation**, Vuong D. Nguyen, Shishir K. Shah
   [[Paper](https://arxiv.org/abs/2402.14454)] 
 

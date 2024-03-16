@@ -29,6 +29,10 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ### Year 2024
 
+* **Identity-aware Dual-constraint Network for Cloth-Changing Person Re-identification**, 
+  Peini Guo, Mengyuan Liu, Hong Liu, Ruijia Fan, Guoquan Wang, Bin He
+  [[Paper](https://arxiv.org/abs/2403.08270)] 
+
 * **Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions**, Weizhen He, Yiheng Deng, Shixiang Tang, Qihao Chen, Qingsong Xie, Yizhou Wang, Lei Bai, Feng Zhu, Rui Zhao, Wanli Ouyang, Donglian Qi, Yunfeng Yan
   [[Paper](https://arxiv.org/abs/2306.07520)]
   [[Code](https://github.com/hwz-zju/Instruct-ReID)] 

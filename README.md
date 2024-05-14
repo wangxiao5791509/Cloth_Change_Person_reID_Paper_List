@@ -28,6 +28,9 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 ## Paper List 
 
 ### Year 2024
+* **Clothes-Changing Person Re-Identification with Feasibility-Aware Intermediary Matching**, Zhao, Jiahe, et al. [[Paper](https://arxiv.org/abs/2404.09507)]
+
+* **Attention-based Shape and Gait Representations Learning for Video-based Cloth-Changing Person Re-Identification**,  Vuong D. Nguyen, Samiha Mirza, Pranav Mantini and Shishir K. Shah, In VISIGRAPP (2: VISAPP) [[Paper](https://www.scitepress.org/publishedPapers/2024/123159/pdf/index.html)] 
 
 * **Identity-aware Dual-constraint Network for Cloth-Changing Person Re-identification**, 
   Peini Guo, Mengyuan Liu, Hong Liu, Ruijia Fan, Guoquan Wang, Bin He

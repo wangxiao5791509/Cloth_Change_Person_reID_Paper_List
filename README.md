@@ -29,10 +29,21 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 
 ### Year 2024
 
+* **ACML: Attention-Based Cross-Modality Learning For Cloth-Changing and Occluded Person Re-Identification**, Vuong D. Nguyen, Pranav Mantini, Shishir K. Shah. In ICIP [[Paper](https://ieeexplore.ieee.org/abstract/document/10647794)]
+
+* **CLIP-Driven Cloth-Agnostic Feature Learning for Cloth-Changing Person Re-Identification**, Shuang Li, Jiaxu Leng, Guozhang Li, Ji Gan, Haosheng chen, Xinbo Gao [[Paper](https://arxiv.org/abs/2406.09198)]
+
+* **Vision transformer-based robust learning for cloth-changing person re-identification**, Chen Xue, Zhongliang Deng, Wangwang Yang, Enwen Hu, Yao Zhang, Shuo Wang, Yiming Wang [[Paper](https://www.sciencedirect.com/science/article/pii/S1568494624006653?casa_token=lCdPUK3A28UAAAAA:DMqbVWaPJR3ypMD-YTl1HUPR8A1x0gKjbvI0iCbtvo_oDzkGzqmX2YKwV3PZaQmzzQOXoiMrgw)]
+  
+* **Occluded Cloth-Changing Person Re-Identification via Occlusion-aware Appearance and Shape Reasoning**, Vuong D. Nguyen, Pranav Mantini, Shishir K. Shah. In AVSS [[Paper](https://ieeexplore.ieee.org/abstract/document/10647794)] 
+
 * **Content and Salient Semantics Collaboration for Cloth-Changing Person Re-Identification**,
   Qizao Wang, Xuelin Qian, Bin Li, Lifeng Chen, Yanwei Fu, Xiangyang Xue
   [[Paper](https://arxiv.org/abs/2405.16597)] 
 
+* **Contrastive Clothing and Pose Generation for Cloth-Changing Person Re-Identification**, Vuong D. Nguyen, Pranav Mantini, Shishir K. Shah. In CVPRW
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/GCV/papers/Nguyen_Contrastive_Clothing_and_Pose_Generation_for_Cloth-Changing_Person_Re-Identification_CVPRW_2024_paper.pdf)]
+  
 * **Clothes-Changing Person Re-Identification with Feasibility-Aware Intermediary Matching**, Zhao, Jiahe, et al. [[Paper](https://arxiv.org/abs/2404.09507)]
 
 * **Attention-based Shape and Gait Representations Learning for Video-based Cloth-Changing Person Re-Identification**,  Vuong D. Nguyen, Samiha Mirza, Pranav Mantini and Shishir K. Shah, In VISIGRAPP (2: VISAPP) [[Paper](https://www.scitepress.org/publishedPapers/2024/123159/pdf/index.html)] 
@@ -44,9 +55,6 @@ Ye, Mang, et al. "Deep Learning for Person Re-identification: A Survey and Outlo
 * **Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions**, Weizhen He, Yiheng Deng, Shixiang Tang, Qihao Chen, Qingsong Xie, Yizhou Wang, Lei Bai, Feng Zhu, Rui Zhao, Wanli Ouyang, Donglian Qi, Yunfeng Yan
   [[Paper](https://arxiv.org/abs/2306.07520)]
   [[Code](https://github.com/hwz-zju/Instruct-ReID)] 
-
-* **CCPA: Long-term Person Re-Identification via Contrastive Clothing and Pose Augmentation**, Vuong D. Nguyen, Shishir K. Shah
-  [[Paper](https://arxiv.org/abs/2402.14454)] 
 
 * **Contrastive Viewpoint-Aware Shape Learning for Long-Term Person Re-Identification**, Vuong D. Nguyen, Khadija Khaldi, Dung Nguyen, Pranav Mantini and Shishir Shah. In WACV 2024.
 [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Contrastive_Viewpoint-Aware_Shape_Learning_for_Long-Term_Person_Re-Identification_WACV_2024_paper.html)]
